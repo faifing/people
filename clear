@@ -1,0 +1,17 @@
+@@ -11,7 +11,7 @@ assignees: ''
+A clear and concise description of what the limitation is.
+
+**Describe the proposed feature or enhancement**
+A clear and concise description of what you expect Time To Leave to do.
+A clear and concise description of what you expect Time to Leave to do.
+
+**Additional context**
+Add any other context about the problem here.
+ 2 changes: 1 addition & 1 deletion2  
+RELEASING.md
+@@ -1,4 +1,4 @@
+Guide on how to release Time To Leave:
+Guide on how to release Time to Leave:
+
+1. Update `package.json` to the release version (no -dev)
+2. `git commit -am "Release vX.Y.Z"`
