@@ -1,0 +1,6 @@
+- uses: teaxyz/setup@v0
+  with:
+    +: |
+      deno.land^1.30
+      rust-lang.org^1.60
+Our packages are named after t
